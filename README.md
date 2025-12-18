@@ -52,10 +52,10 @@ endmodule
 <img width="565" height="251" alt="LOGIC UP COUNTER" src="https://github.com/user-attachments/assets/68de6c92-1108-4224-a461-20558add3892" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
-<img width="1484" height="800" alt="TIMING DIAGRAM" src="https://github.com/user-attachments/assets/f5846bf4-237b-477b-b3f9-e49d28cf86a5" />
+<img width="1039" height="290" alt="527486133-cab0914d-7809-4194-9b35-eaf5dda5096a" src="https://github.com/user-attachments/assets/7ba24dc9-cf2d-4a02-a7d2-6ac44ed509e1" />
 
-**TRUTH TABLE**
-<img width="1022" height="656" alt="TRUTH TABLE" src="https://github.com/user-attachments/assets/4504bdce-6d1d-4e7b-be10-540e90ba8875" />
+
+
 
 **RESULTS**
 The program was executed successfully
